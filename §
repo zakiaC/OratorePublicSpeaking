@@ -1,0 +1,620 @@
+<!DOCTYPE html><!--  Last Published: Fri Oct 06 2023 16:11:53 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="648f7f167a5a9e037ed0d94b" data-wf-site="648f7f167a5a9e037ed0d908">
+<head>
+  <meta charset="utf-8">
+  <title>Mission - Oratore Public speaking</title>
+  <meta content="" property="og:title">
+  <meta content="Mission - Better Together" property="twitter:title">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/components.css" rel="stylesheet" type="text/css">
+  <link href="css/missionprop.css" rel="stylesheet" type="text/css">
+  <style>@media (max-width:767px) and (min-width:480px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="b3f3f0a3-502f-148d-5b68-719709b331da"] {opacity:0;}}@media (max-width:479px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="b3f3f0a3-502f-148d-5b68-719709b331da"] {opacity:0;}}</style>
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["Ubuntu:300,300italic,400,400italic,500,500italic,700,700italic","Ubuntu Mono:regular,700","Raleway:100,200,300,regular,500,600,700"]  }});</script>
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon">
+  <link href="images/webclip.png" rel="apple-touch-icon">
+  <style>
+.w-webflow-badge {
+  display: none !important;
+}  
+body {
+	overflow-x: hidden;
+}
+  ::-webkit-scrollbar { width: 10px; height: 10px;}
+  ::-webkit-scrollbar-thumb { background: #ccc;}
+  ::-webkit-scrollbar-track { background: #fff;}  
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline: 0;
+  }   
+input {    
+  -webkit-user-select: text; /* Chrome, Opera, Safari */
+    -moz-user-select: text; /* Firefox 2+ */
+    -ms-user-select: text; /* IE 10+ */
+    user-select: text; /* Standard syntax */  
+  }  
+</style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.1/remodal.min.css" rel="stylesheet" type="text/css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.1/remodal-default-theme.min.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="page-wrap">
+    <div class="w-embed">
+      <style>
+  [data-animate="link"]::after {
+    content: " ";
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    background-image: linear-gradient(90deg, #20c8bf, #f8e07c);
+    -webkit-transition: -webkit-transform .25s cubic-bezier(0,.5,.5,1);
+    transition: -webkit-transform .25s cubic-bezier(0,.5,.5,1);
+    -o-transition: -o-transform .25s cubic-bezier(0,.5,.5,1);
+    transition: transform .25s cubic-bezier(0,.5,.5,1);
+    transition: transform .25s cubic-bezier(0,.5,.5,1),
+      -webkit-transform .25s cubic-bezier(0,.5,.5,1),
+      -o-transform .25s cubic-bezier(0,.5,.5,1);
+    -webkit-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 100% 0;
+    -o-transform-origin: 100% 0;
+    transform-origin: 100% 0;
+  }
+  [data-animate="link"]:hover::after {
+    -webkit-transform: scaleX(1);
+    -o-transform: scaleX(1);
+    transform: scaleX(1);
+    -webkit-transform-origin: 0 100%;
+    -o-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+  }
+  .footer__get-link::after {
+    content: " ";
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0px;
+    background-image: linear-gradient(90deg, #20c8bf, #f8e07c);
+    -webkit-transition: -webkit-transform .8s cubic-bezier(0,.5,.5,1);
+    transition: -webkit-transform .8s cubic-bezier(0,.5,.5,1);
+    -o-transition: -o-transform .8s cubic-bezier(0,.5,.5,1);
+    transition: transform .8s cubic-bezier(0,.5,.5,1);
+    transition: transform .8s cubic-bezier(0,.5,.5,1),
+      -webkit-transform .8s cubic-bezier(0,.5,.5,1),
+      -o-transform .8s cubic-bezier(0,.5,.5,1);
+    -webkit-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 100% 0;
+    -o-transform-origin: 100% 0;
+    transform-origin: 100% 0;
+    z-index: -1;
+  }
+  .footer__get-link:hover::after {
+    -webkit-transform: scaleX(1);
+    -o-transform: scaleX(1);
+    transform: scaleX(1);
+    -webkit-transform-origin: 0 100%;
+    -o-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+  }
+  .footer__get-link:hover h2 {
+    -webkit-filter: invert(95%);
+    filter: invert(95%);
+  }
+  [data-animate="star"] {
+    -webkit-animation:spin 5s linear infinite;
+    -moz-animation:spin 5s linear infinite;
+    animation:spin 5s linear infinite;
+  }
+  @-moz-keyframes spin { 
+    100% { -moz-transform: rotate(360deg); } 
+  }
+  @-webkit-keyframes spin { 
+    100% { -webkit-transform: rotate(360deg); } 
+  }
+  @keyframes spin { 
+    100% { 
+      -webkit-transform: rotate(360deg); 
+      transform:rotate(360deg); 
+    } 
+  }
+  .form__submit-wrap:hover .form__submit-grad, .form__submit-wrap.active .form__submit-grad { opacity: 1; }
+  .form__submit-wrap.mod--modal:hover .form__submit-ico { filter: invert(0); }
+  .form__submit-wrap.mod--modal.active .form__submit-ico { filter: invert(0); }
+</style>
+    </div>
+    <main id="butter" class="main">
+      <section id="Protection" class="section section--hero">
+        <header class="header">
+          <div class="content">
+            <div class="header__columns">
+              <div class="header__col">
+                <a href="http://" class="header__logo w-inline-block"><img src="images/Mission_By_Aimpact_MAI23.png" loading="eager" sizes="120px" srcset="images/Mission_By_Aimpact_MAI23-p-500.png 500w, images/Mission_By_Aimpact_MAI23-p-800.png 800w, images/Mission_By_Aimpact_MAI23-p-1080.png 1080w, images/Mission_By_Aimpact_MAI23-p-1600.png 1600w, images/Mission_By_Aimpact_MAI23-p-2000.png 2000w, images/Mission_By_Aimpact_MAI23.png 2456w" alt="" class="image"></a>
+              </div>
+              <nav class="header__nav">
+                <a data-animate="link" href="#" class="header__nav-link">Protection</a>
+                <a href="#Solutions" data-animate="link" class="header__nav-link">Solutions</a>
+                <a href="#Team" data-animate="link" class="header__nav-link">Team</a>
+                <a href="#Pro" data-animate="link" class="header__nav-link">Pro</a>
+              </nav>
+              <div class="header__col col--login">
+                <a href="#Contact" data-animate="link" class="header__contact">Contact</a>
+                <a data-remodal-target="form" data-animate="link" href="#" class="header__login">Connexion</a>
+              </div>
+              <div class="header__humburger-wrap">
+                <div data-is-ix2-target="1" class="header__humburger" data-w-id="34934037-5f96-c0ad-d15b-e8f78205c5fb" data-animation-type="lottie" data-src="documents/humburger.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="1.5" data-duration="1"></div>
+                <div style="display:none" class="header__humburger-close"></div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="content">
+          <div data-w-id="38087cdd-8882-900d-c6f5-6940ae54a9df" style="opacity:0" class="hero__content">
+            <div class="hero__over-heading">Brisons l&#x27;isolement,</div>
+            <h1 class="heading">Agissons pour un avenir bienveillant</h1>
+            <div class="hero__btn-wrap">
+              <div data-animate="cube-hover" class="btn-cube-wrap">
+                <div class="btn-cube">
+                  <a href="#" data-remodal-target="form" data-animate="cube" class="btn-cube__front w-button">Téléchargez l&#x27;application</a>
+                  <div data-animate="cube" class="btn-cube__side mod--1"></div>
+                  <div data-animate="cube" class="btn-cube__side mod--2"></div>
+                  <div data-animate="cube" class="btn-cube__side mod--3"></div>
+                </div>
+              </div>
+            </div>
+            <div class="hero__arrow"></div>
+          </div>
+          <div data-w-id="bce55e99-ff62-8b2b-2ea4-c40bc9cc9bdf" style="opacity:0" class="hero__elements-wrap">
+            <div class="hero__elements"><img src="images/hero_elem-06.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 400px, (max-width: 991px) 53vw, 527px" width="527" alt="" srcset="images/hero_elem-06-p-500.jpeg 500w, images/hero_elem-06-p-800.jpeg 800w, images/hero_elem-06.jpg 1054w" class="hero__elem mod--1"><img src="images/hero_elem-01.svg" loading="lazy" alt="" class="hero__elem mod--2">
+              <div class="hero__elem mod--3">
+                <div class="hero__elem-card-title"> </div>
+                <div class="hero__elem-card-desc"> </div>
+              </div><img src="images/hero_elem-03.svg" loading="lazy" alt="" class="hero__elem mod--4"><img src="images/hero_elem-04.svg" loading="lazy" alt="" class="hero__elem mod--5"><img src="images/hero_elem-05.svg" loading="lazy" alt="" class="hero__elem mod--6">
+            </div>
+          </div>
+        </div>
+        <div data-w-id="b3f3f0a3-502f-148d-5b68-719709b331da" class="hero__mob-elemenents-wrap"><img src="images/hero_elem-06.jpg" loading="lazy" sizes="100vw" srcset="images/hero_elem-06-p-500.jpeg 500w, images/hero_elem-06-p-800.jpeg 800w, images/hero_elem-06.jpg 1054w" alt="" class="hero__mob-elem1"><img src="images/hero_elem-01.svg" loading="lazy" alt="" class="hero__mob-elem2">
+          <div class="hero__mob-elemenents">
+            <div class="hero__mob-block mod--single"><img src="images/hero_elem-03.svg" loading="lazy" alt="" class="hero__mob-smile"><img src="images/aarogya-setu-svgrepo-com.svg" loading="lazy" alt=""></div>
+            <div class="hero__mob-blocks">
+              <div class="hero__mob-block"></div>
+              <div class="hero__mob-block mod--wite"><img src="images/solution_06.svg" loading="lazy" alt="" class="solutions__img"><img src="images/solution_06-hover.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+              <div class="hero__mob-block"></div>
+              <div class="hero__mob-block"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="Solutions" class="section section--solutions">
+        <div data-w-id="403a8f05-4cb6-5d92-40c8-757a47b6b247" class="solutions__columns">
+          <div class="solutions__col col--1">
+            <div class="solutions__block"></div>
+            <div class="solutions__block mod--dark1">
+              <div class="solutions__img-parallax"><img src="images/solution_ico-01.svg" loading="lazy" data-w-id="88055a6a-6b2a-be28-7e00-1679ca2edd54" alt="" class="solutions__img mod--ico mod--1"></div>
+              <div class="solutions__img-parallax"><img src="images/solution_ico-03.svg" loading="lazy" data-w-id="dba77edf-9243-8741-c0e0-4772b9cf994c" alt="" class="solutions__img mod--ico mod--3"></div>
+              <div class="solutions__img-parallax"><img src="images/solution_ico-02.svg" loading="lazy" data-w-id="c8b38748-4d83-116d-99ed-979a9df00967" alt="" class="solutions__img mod--ico mod--2"></div>
+            </div>
+            <div class="solutions__block"></div>
+            <div class="solutions__block mod--wite"><img src="images/solutions_04.svg" loading="lazy" alt="" class="solutions__img"><img src="images/solutions_04-hover.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+          </div>
+          <div class="solutions__col col--2">
+            <div class="solutions__row">
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3 mod--wite"><img src="images/solutions_02.svg" loading="lazy" alt="" class="solutions__img"><img src="images/solutions_02-hover.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3 mod--dark2"><img src="images/solution_ico-04.svg" loading="lazy" data-w-id="c056d82f-fdc5-cfaa-a0cb-d7eeb0858f93" alt="" class="solutions__img mod--ico mod--4"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3 mod--fix-border"></div>
+            </div>
+            <div class="solutions__content">
+              <div class="solutions__heading-wrap">
+                <h2 class="heading-2">Une app<br>pour tous</h2>
+                <p class="solutions__desc mod--mob">Notre application est conçue pour rassembler les élèves, les enseignants et les parents dans la lutte contre le harcèlement scolaire. Nous croyons que tous les élèves ont le droit de se sentir en sécurité et respectés à l&#x27;école, et nous sommes déterminés à travailler ensemble pour atteindre cet objectif.<br></p>
+                <div class="solutions__btn-wrap">
+                  <a data-remodal-target="form" href="#" class="btn2 w-inline-block">
+                    <div class="text-block">En savoir plus</div>
+                    <div class="btn2__line mod--1"></div>
+                    <div class="btn2__line mod--2"></div>
+                  </a>
+                </div>
+              </div>
+              <p class="solutions__desc">Notre application est conçue pour rassembler les élèves, les enseignants et les parents dans la lutte contre le harcèlement scolaire. Nous croyons que tous les élèves ont le droit de se sentir en sécurité et respectés à l&#x27;école, et nous sommes déterminés à travailler ensemble pour atteindre cet objectif.<br></p>
+              <div class="solutions__mob-blocks">
+                <div class="solutions__mob-block mod--1"></div>
+                <div class="solutions__mob-block mod--2"></div>
+                <div class="solutions__mob-block mod--wite"><img src="images/solutions_04.svg" loading="lazy" alt="" class="solutions__img"><img src="images/solutions_04-hover.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+                <div class="solutions__mob-block"></div>
+                <div class="solutions__mob-block mod--keys"><img src="images/aarogya-setu-svgrepo-com.svg" loading="lazy" alt="" class="solutions__img mod--key"><img src="images/aarogya-setu-svgrepo-com.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+                <div class="solutions__mob-block"></div>
+              </div>
+            </div>
+            <div class="solutions__row mod--bottom">
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3 mod--key"><img src="images/aarogya-setu-svgrepo-com.svg" loading="lazy" alt="" class="solutions__img"><img src="images/aarogya-setu-svgrepo-com.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+              <div class="solutions__block mod--3"></div>
+              <div class="solutions__block mod--3 mod--arrow1"><img src="images/arrow_top-right2.svg" loading="lazy" alt="" data-w-id="878ace1c-e534-0af9-38a0-142f00a71821" class="solutions__img"><img src="images/ico_arrow-top.svg" loading="lazy" alt="" class="solutions__img"></div>
+              <div class="solutions__block mod--3 mod--arrow2"><img src="images/ico_arrow-top.svg" loading="lazy" alt="" data-w-id="bde4242e-b056-3a75-cfa4-5eeca70594e2" class="solutions__img"></div>
+              <div class="solutions__block mod--3 mod--arow3"><img src="images/ico_arrow-top-left.svg" loading="lazy" alt="" data-w-id="c4fd0780-818c-7aee-9b1f-b97bcd322789" class="solutions__img"></div>
+              <div class="solutions__block mod--3 mod--fix-border"></div>
+            </div>
+          </div>
+          <div class="solutions__col col--3">
+            <div class="solutions__block mod--2 mod--wite"><img src="images/solution_06.svg" loading="lazy" alt="" class="solutions__img"><img src="images/solution_06-hover.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+            <div class="solutions__block mod--2"></div>
+            <div class="solutions__block mod--2"></div>
+            <div class="solutions__block mod--2 mod--wite"><img src="images/solutions_07.svg" loading="lazy" alt="" class="solutions__img"><img src="images/solutions_07-hover.svg" loading="lazy" alt="" class="solutions__img mod--hover"></div>
+            <div class="solutions__block mod--2"></div>
+            <div class="solutions__block mod--2"></div>
+            <div class="solutions__block mod--2 mod--dark3">
+              <div class="solutions__img-parallax"><img src="images/solution_ico-05.svg" loading="lazy" data-w-id="fdffc1a6-5ba0-5c1d-4829-15ba227efb21" alt="" class="solutions__img mod--ico mod--5"></div>
+              <div class="solutions__img-parallax"><img src="images/solution_ico-06.svg" loading="lazy" data-w-id="335f78b1-f489-3e2c-d96a-ab84bc33258d" alt="" class="solutions__img mod--ico mod--6"></div>
+              <div class="solutions__img-parallax"><img src="images/solution_ico-07.svg" loading="lazy" data-w-id="2ac6d944-f722-3666-defa-653c61422fe1" alt="" class="solutions__img mod--ico mod--7"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="Team" class="section">
+        <div class="content">
+          <h2 class="heading--size-50">Notre <strong>équipe</strong></h2>
+          <div class="argument__columns">
+            <div class="argument__col col--left"><img src="images/1.png" loading="lazy" width="528" alt="" class="argument__img mod--first">
+              <div class="argument__title">Alyah Semiai</div>
+              <div class="argument__desc">CEO - Founder</div>
+            </div>
+            <div class="argument__col col--right">
+              <div class="argument__card mod--mob"><img src="images/1.png" loading="lazy" alt="" class="argument__img">
+                <div class="argument__title">Alyiah Semiai</div>
+                <div class="argument__desc">CEO - Founder</div><img src="images/arrgument-zeros.svg" loading="lazy" alt="" class="argument__card-zeros">
+              </div>
+              <div class="argument__card"><img src="images/2.png" loading="lazy" alt="" class="argument__img">
+                <div class="argument__title">Abdallah semiai</div>
+                <div class="argument__desc">CTO - Co-founder</div>
+              </div>
+              <div class="argument__card"><img src="images/argument_person-03.jpg" loading="lazy" alt="" class="argument__img">
+                <div class="argument__title">Tasnym </div>
+                <div class="argument__desc">Poste</div>
+              </div>
+              <div class="argument__card"><img src="images/argument_person-04.jpg" loading="lazy" alt="" class="argument__img">
+                <div class="argument__title">THEO</div>
+                <div class="argument__desc">Developper</div>
+              </div>
+              <div class="argument__card"><img src="images/argument_person-05.jpg" loading="lazy" alt="" class="argument__img">
+                <div class="argument__title">guillaume</div>
+                <div class="argument__desc">Developper</div>
+              </div>
+              <div class="argument__card">
+                <div data-remodal-target="form" data-animate="cube-hover" class="argument__cube">
+                  <div data-animate="cube" class="argument__cube-front">
+                    <div data-animate="cube" class="argument__cube-side mod--1"></div>
+                    <div data-animate="cube" class="argument__cube-side mod--2"></div>
+                    <div data-animate="cube" class="argument__cube-side mod--3"></div>
+                    <div class="argument__cube-title">Voir l&#x27;<strong>équipe au complet</strong></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section section--runline">
+        <div data-animate="runline" class="runtext__content">
+          <div class="runtext__block">
+            <div class="runtext__txt">Renforcer la cyberprésence</div><img src="images/star_green_1star_green.png" loading="eager" width="25" data-animate="star" alt="" class="runtext__img-star">
+          </div>
+        </div>
+      </section>
+      <section id="Pro" data-w-id="99db942c-d6b8-b76b-74c9-748db98a7cef" class="section section--slider">
+        <div class="slider__content">
+          <div data-swiper="reviews2" class="swiper swiper--reviews">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide slide--reviews">
+                <div class="slide__col col--1"><img src="images/slide_01.jpg" loading="lazy" srcset="images/slide_01-p-500.jpeg 500w, images/slide_01.jpg 926w" sizes="(max-width: 767px) 100vw, 32vw" alt="" class="slide__img"></div>
+                <div class="slide__col col--2">
+                  <div class="slide__txt-wrap">
+                    <h2 class="heading--size-50 mod--slider">Formation anti-harcèlement pour entreprises</h2>
+                    <p class="slide__desc">Notre espace de formation contre le harcèlement est conçu spécifiquement pour les entreprises soucieuses de créer un environnement de travail sûr et respectueux. Nous offrons des programmes de formation complets et interactifs, adaptés aux besoins spécifiques de votre organisation. Nos formations sensibilisent les employés au harcèlement sous toutes ses formes et leur donnent les outils nécessaires pour prévenir, reconnaître et signaler tout comportement inapproprié</p>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide slide--reviews">
+                <div class="slide__col col--1"><img src="images/slide_02.jpg" loading="lazy" srcset="images/slide_02-p-500.jpeg 500w, images/slide_02.jpg 926w" sizes="(max-width: 767px) 100vw, 32vw" alt="" class="slide__img"></div>
+                <div class="slide__col col--2">
+                  <div class="slide__txt-wrap">
+                    <h2 class="heading--size-50 mod--slider">Investissez dans une culture d&#x27;entreprise bienveillante</h2>
+                    <p class="slide__desc">En choisissant notre espace de formation, vous investissez dans la création d&#x27;une culture d&#x27;entreprise bienveillante, où chacun se sent en sécurité et respecté. Ensemble, nous pouvons œuvrer pour éliminer le harcèlement au sein de votre organisation et contribuer à un avenir professionnel épanouissant pour tous. Contactez-nous dès aujourd&#x27;hui pour en savoir plus sur notre programme de formation contre le harcèlement adapté à vos besoins spécifiques.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide slide--reviews">
+                <div class="slide__col col--1"><img src="images/slide_03.jpg" loading="lazy" alt="" class="slide__img"></div>
+                <div class="slide__col col--2">
+                  <div class="slide__txt-wrap">
+                    <h2 class="heading--size-50 mod--slider">Soutien continu pour un environnement de travail respectueux</h2>
+                    <p class="slide__desc">Notre engagement ne s&#x27;arrête pas à la formation initiale. Nous offrons un soutien continu pour aider votre entreprise à maintenir une culture d&#x27;entreprise bienveillante et sans harcèlement. Nos experts restent à votre disposition pour répondre à vos questions, fournir des conseils et soutenir vos efforts de sensibilisation.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="slide__nav col--3">
+            <div class="slide__block mod--1">
+              <div data-swiper="reviews" class="swiper swiper--reviews-numb">
+                <div class="swiper-wrapper vert">
+                  <div class="swiper-slide slide--reviews-numb">
+                    <div class="slide__numb">01.</div>
+                  </div>
+                  <div class="swiper-slide slide--reviews-numb">
+                    <div class="slide__numb">02.</div>
+                  </div>
+                  <div class="swiper-slide slide--reviews-numb">
+                    <div class="slide__numb">03.</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="slide__block-grid">
+              <div class="slide__block mod--2"><img src="images/slide_ico-01.svg" loading="lazy" alt="" class="slide__img-cone"></div>
+              <div class="slide__block mod--2 mod--dark"></div>
+              <div class="slide__block mod--2"></div>
+              <div data-swiper="reviews-next" class="slide__block mod--2 mod--next">
+                <div class="slide__next"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer id="Contact" class="footer">
+      <div class="footer__get">
+        <a data-remodal-target="form" href="#" class="footer__get-link w-inline-block">
+          <div class="content">
+            <h2 class="heading--size-50 mod--footer">Qu&#x27;attendez-vous?<span class="heading2__arrow"></span></h2>
+          </div>
+        </a>
+      </div>
+      <div class="footer__line mod--top"></div>
+      <div class="content">
+        <div class="footer__columns">
+          <div class="footer__col col--1">
+            <div data-hover="false" data-delay="0" class="footer__drop w-dropdown">
+              <div class="footer__drop-btn w-dropdown-toggle">
+                <div class="footer__drop-arrow w-icon-dropdown-toggle"></div>
+                <div class="footer__title mod--drop">A propos</div>
+              </div>
+              <div class="footer__drop-content w-dropdown-list">
+                <div class="footer__drop-lists">
+                  <p class="footer__desc">Découvrez notre plateforme web conçue pour offrir un point d&#x27;écoute et un espace d&#x27;échange pour les victimes et les témoins.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer__col col--2">
+            <div data-hover="false" data-delay="0" class="footer__drop w-dropdown">
+              <div class="footer__drop-btn w-dropdown-toggle">
+                <div class="footer__drop-arrow w-icon-dropdown-toggle"></div>
+                <div class="footer__title mod--drop">le site</div>
+              </div>
+              <div class="footer__drop-content w-dropdown-list">
+                <div class="footer__drop-lists">
+                  <div class="footer__nav">
+                    <a href="#Protection" data-animate="link" class="footer__nav-link">Protection</a>
+                    <a href="#Solutions" data-animate="link" class="footer__nav-link">Solutions</a>
+                    <a href="#Team" data-animate="link" class="footer__nav-link">Arguments</a>
+                    <a href="#Pro" data-animate="link" class="footer__nav-link">Using</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer__col col--3">
+            <div class="footer__title">Contact</div>
+            <ul role="list" class="footer__list">
+              <li class="footer__list-item mod--1">
+                <a href="tel:+33625950254" class="footer__link">Tel: +33 6 25 95 02 54</a>
+              </li>
+              <li class="footer__list-item mod--2">Quelque part a Paris</li>
+              <li class="footer__list-item mod--3">
+                <a href="http://google.com" target="_blank" class="footer__link">Crafted by 42Paris</a>
+              </li>
+              <li class="footer__list-item mod--4">
+                <a href="mailto:contact@mission.fr" class="footer__link">contact@mission.fr</a>
+              </li>
+            </ul>
+          </div>
+          <div class="footer__col">
+            <div class="footer__title">Newsletter</div>
+            <div class="form-block w-form">
+              <form id="wf-form-footer" name="wf-form-footer" data-name="footer" method="get" class="form" data-wf-page-id="648f7f167a5a9e037ed0d94b" data-wf-element-id="6abbf4e8-75f6-efaf-9aaf-35fba410f989"><input type="email" class="input input--subs w-input" maxlength="256" name="email" data-name="Email" placeholder="Adresse Mail" id="email" required="">
+                <div form-submitted="anim" class="form__submit-wrap">
+                  <div form-submitted="anim" class="form__submit-ico active"></div>
+                  <div form-submitted="anim" class="form__submit-grad active"></div><input type="submit" value="" data-wait="" class="form__submit w-button">
+                  <div class="form__result">
+                    <div form-submitted="anim" class="form__result-anim active"><img src="images/ico-cheked.svg" loading="lazy" alt="" class="form__result-ico"></div>
+                  </div>
+                </div>
+              </form>
+              <div class="footer__form-success w-form-done">
+                <div>Your submission has been received!</div>
+              </div>
+              <div class="w-form-fail">
+                <div>Oops! Something went wrong while submitting the form.</div>
+              </div>
+            </div>
+            <div class="footer__social">
+              <a href="https://www.facebook.com/" target="_blank" class="footer__soc-link w-inline-block"><img src="images/ico_soc-01.svg" loading="lazy" alt="" class="footer__soc-img"></a>
+              <a href="https://www.linkedin.com" target="_blank" class="footer__soc-link w-inline-block"><img src="images/ico_soc-03.svg" loading="lazy" alt="" class="footer__soc-img"></a>
+              <a href="https://www.instagram.com/" target="_blank" class="footer__soc-link w-inline-block"><img src="images/ico_soc-04.svg" loading="lazy" alt="" class="footer__soc-img"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer__line"></div>
+      <div class="content">
+        <div class="footer__copyright">
+          <a href="#" target="_blank" class="footer__copyright-link w-inline-block"><img src="images/ico-cheked.svg" loading="lazy" alt="" class="footer__copyright-logo">
+            <div class="text-block-2">2023 Mission © Tout Droits Reserves</div>
+          </a>
+        </div>
+      </div>
+      <div class="footer__follow-wrap">
+        <div class="footer__follow"><span data-w-id="49b3841e-0f3b-e615-7e45-9b4b17e04a11" class="footer__follow-heart"> </span>
+          <a href="https://webflow.com/website/CYBORO" target="_blank" class="footer__follow-link">Like</a> <span class="footer__follow-and">&amp;</span>
+          <a href="https://webflow.com/halolab" target="_blank" class="footer__follow-link">Follow</a> from you. New free to use projects from us.
+        </div>
+      </div>
+    </footer>
+    <div style="opacity:0;display:none" class="menu">
+      <div style="-webkit-transform:translate3d(0, -20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, -20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, -20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, -20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="menu__content">
+        <nav class="menu__nav">
+          <a href="#Protection" class="menu__nav-link">Protection</a>
+          <a href="#Solutions" class="menu__nav-link mod--even">Solutions</a>
+          <a href="#Team" class="menu__nav-link">Team</a>
+          <a href="#Pro" class="menu__nav-link mod--even">Pro</a>
+          <a href="#Contact" class="menu__nav-link">Contact</a>
+          <a href="#" data-remodal-target="form" class="menu__nav-link mod--even">Connexion</a>
+        </nav>
+      </div>
+      <div class="menu__bg"></div>
+    </div>
+    <div data-remodal-id="form" class="remodal remodal--global">
+      <div data-remodal-action="close" class="remodal__close"></div><img src="images/18880493_v991-a-36-b.jpg" loading="eager" sizes="(max-width: 767px) 100vw, 596px" srcset="images/18880493_v991-a-36-b-p-500.jpg 500w, images/18880493_v991-a-36-b-p-800.jpg 800w, images/18880493_v991-a-36-b-p-1080.jpg 1080w, images/18880493_v991-a-36-b-p-1600.jpg 1600w, images/18880493_v991-a-36-b-p-2000.jpg 2000w, images/18880493_v991-a-36-b-p-2600.jpg 2600w, images/18880493_v991-a-36-b-p-3200.jpg 3200w, images/18880493_v991-a-36-b.jpg 5001w" alt="" class="remodal__img">
+      <div class="remodal__content">
+        <div class="remodal__text-wrap">
+          <div class="remodal__heading">Ne ratez pas le lancement</div>
+          <p class="remodal__text">Inscrivez-vous dès maintenant et faites partie de notre communauté engagée dans la prévention du harcèlement.</p>
+        </div>
+        <div class="form-block mod--modal w-form">
+          <form id="wf-form-footer" name="wf-form-footer" data-name="footer" method="get" class="form" data-wf-page-id="648f7f167a5a9e037ed0d94b" data-wf-element-id="9426047b-9de9-a9ce-2312-f9f3a8a6aaea"><input type="email" class="input input--subs mod--modal w-input" maxlength="256" name="Email" data-name="Email" placeholder="Votre doux mail" id="Email-3" required="">
+            <div form-submitted="anim" class="form__submit-wrap mod--modal active">
+              <div form-submitted="anim" class="form__submit-ico mod--modal active"></div>
+              <div form-submitted="anim" class="form__submit-grad"></div><input type="submit" value="" data-wait="" class="form__submit w-button">
+              <div class="form__result">
+                <div form-submitted="anim" class="form__result-anim active"><img src="images/ico-cheked.svg" loading="lazy" alt="" class="form__result-ico"></div>
+              </div>
+            </div>
+          </form>
+          <div class="footer__form-success w-form-done">
+            <div>Your submission has been received!</div>
+          </div>
+          <div class="w-form-fail">
+            <div>Oops! Something went wrong while submitting the form.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=648f7f167a5a9e037ed0d908" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/missionprop.js" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js" type="text/javascript"></script>
+  <script type="text/javascript"> window.REMODAL_GLOBALS = { DEFAULTS: { hashTracking: false } }; </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.1/remodal.min.js" type="text/javascript"></script>
+  <style>
+  /* Style modal */
+  .remodal-overlay { background: rgba(19, 19, 19, 0.9); }
+  .remodal { transform: scale(1) !important; } 
+  .remodal-wrapper { 
+    padding: 0px; 
+    overflow: hidden;
+    -webkit-transform: translate(0,0);
+    -ms-transform: translate(0,0);
+    transform: translate(0,0);
+  } 
+  body { padding-right: 0px !important; }
+</style>
+  <script>
+  SmoothScroll({ 
+    animationTime    : 800, // [ms]
+    stepSize         : 100, // [px]
+    accelerationDelta : 50,  // 50
+    accelerationMax   : 3,   // 3
+    touchpadSupport   : false, 
+  })
+</script>
+  <script>
+  $(function() {
+    if (window.innerWidth <= 991) {
+      let humburger = $('.header__humburger-wrap');
+      $(".header__humburger, .header__humburger-close, .menu__nav-link").on('click', function() {
+        if (!humburger.hasClass("active")) {
+          humburger.addClass("active");
+          setTimeout(function() {
+            $("html, body").css({
+              overflow: 'hidden',
+              height: '100%'
+            });
+          }, 300);
+        } else {
+          humburger.removeClass("active");
+          $("html, body").css({
+            overflow: 'auto',
+            height: 'auto'
+          });
+        }
+      });
+    }
+    $('[data-animate=cube]').removeClass('active');
+    $("[data-animate=cube-hover]").hover(function() {
+      $(this).find('[data-animate=cube]').toggleClass('active');
+    }, function() {
+      $(this).find('[data-animate=cube]').toggleClass('active');
+    });
+    for (var i = 0; i < 5; i++) {
+      $('[data-animate=runline] > div').clone().appendTo('[data-animate=runline]');
+    }
+    function lineReset() { $('[data-animate=runline]').animate({ marginLeft: '0px' }, { duration: 0 }); };
+    function lineRun() { $('[data-animate=runline]').animate({ marginLeft: '-3000px' }, { duration: 60000, easing: "linear" }); };
+    lineRun();
+    setInterval(function() {
+      lineReset();
+      lineRun();
+    }, 60000);
+    var swiper = new Swiper("[data-swiper=reviews]", {
+      direction: "vertical",
+      loop: true,
+      spaceBetween: 0,
+      slidesPerView: 1,
+      watchSlidesProgress: true,
+    });
+    var swiper2 = new Swiper('[data-swiper=reviews2]', {
+      speed: 800,
+      slidesPerView: 1,
+      spaceBetween: 0,
+      loop: true,
+      autoplay: {
+        delay: 5000,
+        disableOnInteraction: true,
+      },
+      navigation: {
+        nextEl: '[data-swiper=reviews-next]',
+        prevEl: '[data-swiper=reviews-prev]',
+      },
+      thumbs: {
+        swiper: swiper,
+      },
+    });
+  });
+</script>
+  <!--  Sendpulse and global script for form  -->
+  <style>form{display:block !important}.w-form-done{display:none !important}.sp-form-outer{display:none;}</style>
+  <script async="" src="https://web.webformscr.com/apps/fc3/build/loader.js" sp-form-id="cac2ef63a1f70fdc99ea3d07fb7c7e53e21a41060b1f9937ab427588f3368d6d"></script>
+  <script src="https://amosk.com.ua/js/projects/halolab/forms.js"></script>
+</body>
+</html>
